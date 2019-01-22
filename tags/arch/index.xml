@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arch on Margaret&#39;Blog</title>
+    <link>https://blog.margaret.fun/tags/arch/</link>
+    <description>Recent content in Arch on Margaret&#39;Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2017 - Margaret</copyright>
+    <lastBuildDate>Tue, 22 Jan 2019 13:01:56 +0800</lastBuildDate>
+    
+	<atom:link href="https://blog.margaret.fun/tags/arch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setup My Laptop</title>
+      <link>https://blog.margaret.fun/posts/setup-my-laptop/</link>
+      <pubDate>Tue, 22 Jan 2019 13:01:56 +0800</pubDate>
+      
+      <guid>https://blog.margaret.fun/posts/setup-my-laptop/</guid>
+      <description>Environmental My laptop is Macbook, I want to use Archlinux because it very fast ~
+ Base
+ wm: i3 bar: i3blocks terminal: xfce4-terminal
+ font
+  ttf-ubuntu-font-family ttf-font-awesome   software</description>
+    </item>
+    
+  </channel>
+</rss>
