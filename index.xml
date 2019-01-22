@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Margaret&#39;Blog</title>
+    <link>https://blog.margaret.fun/</link>
+    <description>Recent content on Margaret&#39;Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2017 - Margaret</copyright>
+    <lastBuildDate>Tue, 22 Jan 2019 12:24:54 +0800</lastBuildDate>
+    
+	<atom:link href="https://blog.margaret.fun/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://blog.margaret.fun/posts/my-first-post/</link>
+      <pubDate>Tue, 22 Jan 2019 12:24:54 +0800</pubDate>
+      
+      <guid>https://blog.margaret.fun/posts/my-first-post/</guid>
+      <description>Hello World This site is recording my daily work and notes。</description>
+    </item>
+    
+  </channel>
+</rss>
